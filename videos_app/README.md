@@ -1,5 +1,4 @@
 # Description
-This project exposes the 
 
 ## Contents
 - useState
